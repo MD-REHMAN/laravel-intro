@@ -3,12 +3,12 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="google-signin-client_id" content="951252944123-1rf5k2sv0u5trf2ldrl92fv0ld49b433.apps.googleusercontent.com">
         <title>Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-
+<script src="https://apis.google.com/js/platform.js" async defer></script>
         <!-- Styles -->
         <style>
             html, body {
